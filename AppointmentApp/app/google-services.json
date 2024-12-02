@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "618964565172",
+    "firebase_url": "https://online-shop-d2d89-default-rtdb.firebaseio.com",
+    "project_id": "online-shop-d2d89",
+    "storage_bucket": "online-shop-d2d89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618964565172:android:7045d8d0ef141da2d3abe1",
+        "android_client_info": {
+          "package_name": "com.example.appointmentapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9ToxLO25XYgfbr94iZOV6muGCboRQ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618964565172:android:df5ae3f202646519d3abe1",
+        "android_client_info": {
+          "package_name": "com.example.onlineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9ToxLO25XYgfbr94iZOV6muGCboRQ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618964565172:android:af57a03bf1adb6c5d3abe1",
+        "android_client_info": {
+          "package_name": "com.example.testonlineshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9ToxLO25XYgfbr94iZOV6muGCboRQ-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

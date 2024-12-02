@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppointmentApp</string>
+    <string name="make_appointment">Make appointment</string>
+</resources>
